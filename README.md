@@ -1,4 +1,4 @@
-<img src="https://cdn.rawgit.com/dealbot/cadences/dc480c399e632b2f6668ff519b7049c57db06883/dealbot_cadence_library.svg" alt="Dealbot Cadence Library" width="250" />
+<img src="https://cdn.rawgit.com/dealbot/cadences/dc480c399e632b2f6668ff519b7049c57db06883/dealbot_cadence_library.svg" alt="Dealbot Cadence Library" width="300" />
 
 The Dealbot Cadence Library (DCL) is a collection of precisely defined outreach schedules in [CadenceML](../../../CadenceML) format for salespeople, customer success teams, and others who want to enforce a rigorous contact rhythm.
 
