@@ -1,0 +1,29 @@
+# The classic SalesLoft 7x7 cadence
+7x7:
+  cadence:
+    1:
+      - channel: email
+        title: Intro email
+        notes: Short and sweet email looking for a referral
+      - channel: call
+        title: Intro call
+        notes: Leave a voicemail if no answer
+    2:
+      - channel: call
+        title: Day 2 follow-up call
+        notes: Don't leave a voicemail
+    3:
+      - channel: call
+        title: Day 3 (AM) follow-up call
+        notes: Don't leave a voicemail
+      - channel: call
+        title: Day 3 (PM) follow-up call
+        notes: Leave a voicemail
+    4:
+      - channel: email
+        title: Follow-up email
+        notes: Try something funny?
+    7:
+      - channel: email
+        title: Breakup email
+        notes: This is it!

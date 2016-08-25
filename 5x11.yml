@@ -1,0 +1,30 @@
+# The Faraday 5x11 from Scott Pellegrini
+5x11:
+  eligible_days: [2, 3, 4, 5] # Skip Monday
+  cadence:
+    1:
+      - channel: email
+        title: Intro email
+        notes: Subject "Introducing _____"
+    3:
+      - channel: call
+        title: Intro call — leave vm
+        notes: "Hello, the reason for my call today is _______, check your inbox for more info"
+      - channel: email
+        title: Follow-up email
+        notes: "Super brief email, same thread"
+    7:
+      - channel: call
+        title: Double-tap call
+        notes: Leave a voicemail
+      - channel: email
+        title: Double-tap email
+        notes: "Just left you a vm - time for a 15 minute call in coming days?  If so, throw some time on my cal here: ____"
+    10:
+      - channel: social
+        title: Social pings
+        notes: "Social touches (retweet/like their tweets, interact w Facebook, blogs, whatever) - one last ping before breakup (also might discover something new you hadn't noticed before to enrich last attempt - if it's juicy, maybe another double tap follows)"
+    11:
+      - channel: email
+        title: Breakup email
+        notes: "Last email - if haven't done this already, definitely try to Aaron Ross them - perhaps you can intro me to proper person in your org"
